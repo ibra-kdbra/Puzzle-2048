@@ -1,6 +1,6 @@
 # 2048 Game 
 ***Enjoy***
 
-Play online: https://ibra-22kh.github.io/puzzle_GAME/
+Play online: https://ibra-kdbra.github.io/Puzzle-2048/
 
 If it helps you welcome Star!
